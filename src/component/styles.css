@@ -1,0 +1,27 @@
+a.social{
+    margin:0 1rem;
+    transition: transform 250ms;
+    display: inline-block;
+    background-color: bisque;
+    color: bisque;
+  }
+  
+  a.social:hover{
+    transform: translate(-2px);
+  }
+
+  a.facebook{
+    color: #4968ad;
+  }
+
+  a.Github{
+    color: #4968ad;
+  }
+
+  a.faHackerrank{
+    color: #49a1eb;
+  }
+
+  a.faLinkedin{
+    color: #49a1eb;
+  }
